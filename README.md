@@ -25,7 +25,7 @@ The purpose of this project is to:
 
 The model includes **4 interconnected tables**:
 
-### 🔹 1. `Bank Data`
+### 1. `Bank Data`
 
 | Column Name              | Description                                            |
 | ------------------------ | ------------------------------------------------------ |
@@ -44,14 +44,14 @@ The model includes **4 interconnected tables**:
 | `State`                  | Geographic region                                      |
 | `Data Joined`            | Date customer joined                                   |
 
-### 🔹 2. `Date Table`
+### 2. `Date Table`
 
 | Column                                         | Description             |
 | ---------------------------------------------- | ----------------------- |
 | Date, Day Name, Month Name, Quarter Name, Year | Standard date hierarchy |
 | Month Year, Month Year Sort, Week Name         | For sorting and display |
 
-### 🔹 3. `Dim`
+### 3. `Dim`
 
 | Column      | Description                    |
 | ----------- | ------------------------------ |
@@ -59,7 +59,7 @@ The model includes **4 interconnected tables**:
 | Name        | Attribute (e.g. Gender, State) |
 | Value       | Corresponding value            |
 
-### 🔹 4. `Selection Table`
+### 4. `Selection Table`
 
 | Column  | Description                                  |
 | ------- | -------------------------------------------- |
@@ -135,7 +135,7 @@ Custom DAX measures implemented in Power BI for deeper insights:
 
 ## 3. Executive Summary
 
-### 📊 KPI Analysis
+### KPI Analysis
 
 * **Total Balance**: \$236.93M
 * **Male Balance**: \$128.59M
@@ -143,7 +143,7 @@ Custom DAX measures implemented in Power BI for deeper insights:
 * **House Owner Balance**: \$131.81M
 * **Renters Balance**: \$105.12M
 
-### 👥 Customer Demographics
+### Customer Demographics
 
 * **By Gender**: Male (54.27%), Female (45.73%)
 * **By Marital Status**: Married (62.24%), Single (26.39%), Divorced (11.37%)
