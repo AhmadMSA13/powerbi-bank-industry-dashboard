@@ -88,7 +88,7 @@ Custom DAX measures implemented in Power BI for deeper insights:
 ### Entity Relationship Diagram (ERD)
 
 <p align="center">
-  <img src="./images/ERD_BANK_INDUSTRY.PNG" alt="ERD" width="500">
+  <img src="./images/ERD_BANK_INDUSTRY.PNG" alt="ERD" width="600">
 </p>
 
 ### **Table Relationships**
